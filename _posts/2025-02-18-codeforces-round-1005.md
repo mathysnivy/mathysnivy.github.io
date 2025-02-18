@@ -1,6 +1,4 @@
-## Codeforces Contest review - Round 1005 test6
-
-0 1 (0) (1) $0$ $1$ \(0\) \(1\) '('0')' \$0\$ \$1\$
+## Codeforces Contest review - Round 1005
 
 &nbsp;&nbsp;&nbsp;&nbsp;This was my first round in about a month (my last contest was January 22nd), so I'm pretty rusty. It isn't really an excuse to how bad this contest went for me, I completely could've done better.
 
