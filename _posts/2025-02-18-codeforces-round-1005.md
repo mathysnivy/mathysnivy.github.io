@@ -1,7 +1,5 @@
 ## Codeforces Contest review - Round 1005
 
-test
-
 &nbsp;&nbsp;&nbsp;&nbsp;This was my first round in about a month (my last contest was January 22nd), so I'm pretty rusty. It isn't really an excuse to how bad this contest went for me, I completely could've done better.
 
 ### Problem A. Brogramming Contest [(2064A)](https://codeforces.com/contest/2064/problem/A)
