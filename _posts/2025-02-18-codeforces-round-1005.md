@@ -1,8 +1,8 @@
 ## Codeforces Contest review - Round 1005 test2
 
-&nbsp;&nbsp;&nbsp;&nbsp;This was my first round in about a month \(my last contest was January 22nd\), so I'm pretty rusty. It isn't really an excuse to how bad this contest went for me, I completely could've done better.
+&nbsp;&nbsp;&nbsp;&nbsp;This was my first round in about a month (my last contest was January 22nd), so I'm pretty rusty. It isn't really an excuse to how bad this contest went for me, I completely could've done better.
 
-### Problem A. Brogramming Contest [\(2064A\)](https://codeforces.com/contest/2064/problem/A)
+### Problem A. Brogramming Contest [(2064A)](https://codeforces.com/contest/2064/problem/A)
 &nbsp;&nbsp;&nbsp;&nbsp;This is (at least to me) a standard problem for the div2A, only requiring a quick observation and some greedy work. To avoid doing some casework with the string beginning with either $0$ or $1$, simply add a $0$ to the beginning of the string, and now it remains to count the number of adjacent characters that are different.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Alright, let the chaos begin.
