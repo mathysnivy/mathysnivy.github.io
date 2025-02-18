@@ -23,6 +23,8 @@ theme: "minima"
 rss: rss
 
 kramdown:
+  input: GFM
+  math_engine: mathjax # you can also set this field to 'katex'
   syntax_highlighter_opts:
     disable: true
     
