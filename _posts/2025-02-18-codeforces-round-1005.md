@@ -10,6 +10,7 @@
 ### Problem B. Variety is Discouraged [(2064B)](https://codeforces.com/contest/2064/problem/B)
 
 &nbsp;&nbsp;&nbsp;&nbsp;This wasn't a particularly difficult problem. The main idea is that the entire array will give the maximal score, so the issue is to find what we can remove, while still keeping the same score. Any elements that appear exactly once will do just that, so the problem reduces down to find the largest segments of the number $1$.
+
 &nbsp;&nbsp;&nbsp;&nbsp;Though for some reason, I decided to just *forget* how to code, and used a **continue**, instead of a **break**, to exit the for loop. This mistake somehow wasn't caught in the sample tests (and I should've been more careful), so I received a WA on my first submission. Thankfully I fixed it quite quickly after that, so no rage induced (yet).
 
 ### Problem C. Remove the Ends [(2064C)](https://codeforces.com/contest/2064/problem/C)
