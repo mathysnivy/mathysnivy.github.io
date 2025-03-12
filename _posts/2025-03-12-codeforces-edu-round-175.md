@@ -22,6 +22,6 @@ And finally,
 
 Overall, nice problem to think about. I did spend almost a full hour here, since I tried different methods to calculate the DP (I almost used DFS 3 times, too), but it was nice to get this one done.
 
-My final ranking was $824$th among the official Division 2 contestants, and lost $9$ rating points. I was chilling for most of the contest, the negative delta was kinda unfortunate, but overall this was a decent performance for me.
+My final ranking was 824th among the official Division 2 contestants, and lost $9$ rating points. I was chilling for most of the contest, the negative delta was kinda unfortunate, but overall this was a decent performance for me.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Note: This is mostly my personal experience with the problems, you might not completely agree with some of the things here. Please do not make this an excuse to attack me and/or anyone who was involved in the making of this contest.
